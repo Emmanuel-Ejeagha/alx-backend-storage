@@ -1,7 +1,6 @@
-/*
-    Creates a table called users.
-    Elements: id, email, name, country
-*/
+--    Creates a table called users.
+--    Elements: id, email, name, country
+
 
 CREATE TABLE IF NOT EXISTS users(
     id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
